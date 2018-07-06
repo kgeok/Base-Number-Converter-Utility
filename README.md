@@ -5,13 +5,14 @@ Usage: ./basenumconv FLAG NUMBER
 
 Flags:
 
--o to convert to Octal
+-o to convert to Octal <br/>
+
 -b to convert to Binary
 
 Example ./basenumconv -o 123
 
 
-
+</br>
 
 Version 0.1
 
