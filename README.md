@@ -9,15 +9,8 @@ Flags:
 
 -b to convert to Binary
 
-Example ./basenumconv -o 123
+Example:
 
-
-</br>
-
-Version 0.1
-
-For now only Decimal to Binary conversion works, other conversions will be added in future releases
-
-Version 0.2
-
-Support for Decimal to Octal Conversion and command-line flags
+```console
+foo@bar:~$ ./basenumconv -o 123
+```
