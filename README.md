@@ -5,9 +5,11 @@ Usage: ./basenumconv FLAG NUMBER
 
 Flags:
 
--o to convert to Octal <br/>
+-do to convert Decimal to Octal <br/>
 
--b to convert to Binary
+-db to convert Decimal to Binary <br/>
+
+-bd to convert Binary to Decimal <br/>
 
 Example:
 
