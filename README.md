@@ -14,5 +14,5 @@ Flags:
 Example:
 
 ```console
-foo@bar:~$ ./basenumconv -o 123
+foo@bar:~$ ./basenumconv -do 123
 ```
